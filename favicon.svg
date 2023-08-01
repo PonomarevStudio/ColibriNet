@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Creator: CorelDRAW 2019 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="387px" height="387px" version="1.0" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 351.03 351.03"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil0 {fill:#FEFEFE}
+    .fil2 {fill:url(#id0)}
+    .fil1 {fill:url(#id1)}
+   ]]>
+  </style>
+  <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="127.25" y1="130.49" x2="132.81" y2="121.29">
+   <stop offset="0" style="stop-opacity:1; stop-color:#4EAE3D"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#F8DD5E"/>
+  </linearGradient>
+  <linearGradient id="id1" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="124.39" y1="323.63" x2="240.19" y2="127.02">
+  </linearGradient>
+ </defs>
+ <g id="Слой_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <circle class="fil0" cx="175.52" cy="175.52" r="175.52"/>
+  <g id="_3169396919424">
+   <g>
+    <path class="fil1" d="M158.75 312.92c-16.18,-19.05 6.2,-64.2 19.92,-83.86 3.15,-4.51 13.16,-19 17.39,-20.93 2.69,30.6 -12.56,102.86 -37.31,104.79zm47.6 -152.2c8.06,-0.7 6.71,-4.98 9.47,-13.13 9.86,-29.16 52.38,-84.53 78.6,-75.13 2.3,21.53 -52.92,68.51 -69.73,87.69 -6.17,7.03 -17.56,22.15 -23.99,26.34 -3.33,-6.84 -6.38,-19.81 -9.65,-27.51 -13.33,-31.39 -45.4,-72.39 -82.51,-43.5 -3.12,2.42 -7.14,6.14 -9.71,9.19 -3.69,4.4 -3.05,6.24 -7.82,9.13 -10.27,6.21 -47.86,9.04 -51.74,19.3 6.85,5.58 31.82,-6.2 42.03,-8.39 15.91,-3.42 32.91,1.36 40.18,10.41 13.49,16.77 6.5,47.19 28.27,66 4.2,3.63 2.4,3.67 9.19,3.28 0.84,-8.87 -0.58,-5.55 -6.73,-11.44 -23.51,-22.54 -2.31,-67.82 -51.86,-75.92 11.01,-26.33 42.3,-33.17 62.64,-8.44 12.03,14.63 30.77,43.62 30.83,67.88 -2.1,7.46 -50.11,52.81 -47.36,101.73 0.6,10.63 4.13,21.98 14.61,21.99 25.04,0.04 43.71,-70.41 42.83,-102.94 -0.5,-18.82 -5.31,-15.39 5.93,-28.61l70.86 -76.16c6.2,-7.7 33.26,-35.93 16.02,-46.59 -30.01,-18.56 -98.43,73.17 -90.36,94.82z"/>
+   </g>
+   <circle class="fil2" cx="129.5" cy="124.3" r="6.09"/>
+  </g>
+ </g>
+</svg>
